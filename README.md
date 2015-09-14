@@ -16,7 +16,7 @@ _**DISCLAIMER**: So far, the images are going to be saved in `~/Pictures`, then 
 
 Want to file a bug, contribute some code, or improve documentation? Excellent! Feel free to open a Github issue or contact with [@tehBeard](https://github.com/noeFernandez).
 
-## Licence
+## License
 Bing Dialy Wallpaper Downloader is released under the [MIT License](http://www.opensource.org/licenses/MIT).
 
 
