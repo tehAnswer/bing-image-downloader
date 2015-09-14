@@ -11,6 +11,6 @@ imageUrl = jsonResponse['images'][0]['url']
 
 # download the image and once it's downloaded, we will write it to an image
 imageUrl = "http://www.bing.com" + imageUrl
-imageFile = open("/home/noe/Pictures/bing-daily-backgorund.jpg", "wb")
+imageFile = open("{***put your preferred directory here****}/bing-daily-backgorund.jpg", "wb")
 imageFile.write(urllib.urlopen(imageUrl).read())
 imageFile.close()
