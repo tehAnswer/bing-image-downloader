@@ -5,6 +5,7 @@ If you love the daily bing backgrounds as I do this script will help you to cust
 Recommended usage:
 
 * Copy the python file on your system
+* Change the "{***put your preferred directory here****}" code for a suitable path in your system [proposed by @tehAnswer]
 * Set file permissions to chmod a+x bing-downloader-py
 * Add a chron job to execute that file
 
